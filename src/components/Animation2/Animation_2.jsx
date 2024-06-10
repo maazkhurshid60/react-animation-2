@@ -10,6 +10,8 @@ import './animation_2.style.scss';
 //Icon Import
 import { IoCheckmark } from "react-icons/io5";
 
+//Adding this line for git activity
+
 export default function Animation2Component() {
 
     //Function to animate on scroll
