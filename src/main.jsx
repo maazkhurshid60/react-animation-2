@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  //adding line for git activity
+  //Changing this line for git activity
   <React.StrictMode>
     <App />
   </React.StrictMode>,
